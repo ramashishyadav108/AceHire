@@ -197,53 +197,53 @@ const features = [
     description:
       "Generate professional resumes efficiently with customizable templates and keyword optimization for ATS.",
     icon: FileText,
-    link: "/dashboard/resume-builder",
+    link: "/resume",
   },
   {
     title: "Cover Letter Generator",
     description:
       "Create personalized cover letters based on job descriptions with AI-driven suggestions for maximum impact.",
     icon: MessageSquare,
-    link: "/dashboard/cover-letter",
+    link: "/cover-letter",
   },
   {
     title: "Resume Analysis",
     description:
       "AI reviews your resume for structure, wording, and industry relevance with instant feedback for improvement.",
     icon: BarChart3,
-    link: "/dashboard/resume-analysis",
+    link: "/resume-analysis",
   },
   {
     title: "Interview Preparation",
     description: "Practice with AI-generated mock interview questions and get real-time feedback on your responses.",
     icon: Target,
-    link: "/dashboard/interview-prep",
+    link: "/interview",
   },
   {
     title: "Smart Job Search",
     description: "Discover job opportunities based on your profile and market trends with personalized notifications.",
     icon: Search,
-    link: "/dashboard/job-search",
+    link: "/job-search",
   },
   {
     title: "Skill Development",
     description:
       "Get recommendations for courses and training programs based on industry trends and your career goals.",
     icon: BookOpen,
-    link: "/dashboard/skill-development",
+    link: "/skill-development",
   },
   {
     title: "Career Roadmap",
     description:
       "Visualize your career journey with a personalized step-by-step plan to achieve your professional goals.",
     icon: Zap,
-    link: "/dashboard/career-roadmap",
+    link: "/career-roadmap",
   },
   {
     title: "Internship Finder",
     description: "Students and freshers can discover relevant internships to kickstart their professional journey.",
     icon: Briefcase,
-    link: "/dashboard/internships",
+    link: "/internships",
   },
 ]
 
