@@ -154,7 +154,7 @@ const ResumeAnalyzer = () => {
 
 
 
-      const baseURL = "https://careerpilot-jm7u.onrender.com/"; // hosted one 
+      const baseURL = "https://careerpilot-jm7u.onrender.com"; // hosted one 
 
       const [analysisRes, skillsRes, predictionRes] = await Promise.all([
         axios.post(`${baseURL}/upload_resume/`, formData, {
